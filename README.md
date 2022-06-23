@@ -4,5 +4,7 @@ esse programa pergunta teu nome e retorna a quantidade de caracteres e pergunta 
 ## Para abrir:
 
   1-  abra o terminal
-  2-  python Form.py 
+  
+  2-  python Form.py
+  
   3-  seja feliz.
